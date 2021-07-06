@@ -11,21 +11,4 @@ const displayTableVal = displayTable(
   ]
 )
 
-let kk = {
-  '3': {
-    Ceviche: 2,
-    'Fried Chicken': 1
-  },
-  '10': {
-    'Beef Burrito': 1
-  },
-  '5': {
-    'Water': 1,
-    Ceviche: 1
-  }
-}
-let ret = [
-  ['']
-]
-
 console.log(displayTableVal);
