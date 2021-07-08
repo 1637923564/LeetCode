@@ -1,7 +1,7 @@
-import displayTable from "./stack/1418-displayTable";
-import validParentheses from "./stack/0020-validParentheses";
-import countPairs from "./unknown/1711-countPairs";
-import StackImQueue from "./stack/0232-stackImQueue";
+import displayTable from "./core/1418-displayTable";
+import validParentheses from "./core/0020-validParentheses";
+import countPairs from "./core/1711-countPairs";
+import StackImQueue from "./core/0232-StackImQueue";
 
 const leetCodes = {
   displayTable,
