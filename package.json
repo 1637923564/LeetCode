@@ -1,14 +1,26 @@
 {
   "name": "leet-code",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
-  "repository": "https://github.com/1637923564/LeetCode.git",
-  "author": "w_kaining",
-  "license": "MIT",
+  "scripts": {
+    "serve": "nodemon index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1637923564/LeetCode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1637923564/LeetCode/issues"
+  },
+  "homepage": "https://github.com/1637923564/LeetCode#readme",
   "devDependencies": {
-    "@types/node": "^16.0.0",
-    "nodemon": "^2.0.9",
-    "ts-node-dev": "^1.1.8",
+    "@types/node": "^16.3.2",
+    "ts-node": "^10.1.0",
+    "tslib": "^2.3.0",
     "typescript": "^4.3.5"
   }
 }

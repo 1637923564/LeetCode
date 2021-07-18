@@ -11,5 +11,4 @@
     "declaration": true,
   },
   "exclude": ["build", "node_modules"],
-  "include": ["src", "example/*"]
 }
